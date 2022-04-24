@@ -1,2 +1,2 @@
 # myHTML
-my first HTML repo
+my first HTML repo, don't take serious
